@@ -2,8 +2,8 @@
 <html>
 <body>
 hello
-  <div style="width:300px;border:1px solid #999;position:relative">
-  <div style="height:0;padding-bottom:50%">
+  <div style="width:100%;border:1px solid #999;position:relative">
+  <div style="height:0;padding-bottom:33%">
     <iframe src="www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d14459.022137912707!2d121.42847550000002!3d25.0423691!3m2!1i1024!2i768!4f13.1!5e0!3m2!1szh-CN!2stw!4v1515042937374"
     width="100%" height="100%" frameborder="0"
     style="border:0;position:absolute" allowfullscreen></iframe>
